@@ -1,0 +1,15 @@
+{
+  "name": "halberdier2022",
+  "version": "1.0.0",
+  "description": "A simple offline password manager.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Liu",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
